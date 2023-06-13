@@ -1,0 +1,33 @@
+LAB08-PC06@DESKTOP-OJKRAIK MINGW64 /c/RHUMANOS/RHUMANOS (main)
+$ git add .
+
+LAB08-PC06@DESKTOP-OJKRAIK MINGW64 /c/RHUMANOS/RHUMANOS (main)
+$ git commit -m "se agrego cambioS"
+[main 54fb216] se agrego cambioS
+ 6 files changed, 6 insertions(+), 1 deletion(-)
+ create mode 100644 fotos_empleados/descarga (1).jpg
+ create mode 100644 fotos_empleados/descarga (2).jpg
+ create mode 100644 fotos_empleados/descarga.jpg
+ create mode 100644 fotos_empleados/images (1).jpg
+ create mode 100644 fotos_empleados/images.jpg
+
+LAB08-PC06@DESKTOP-OJKRAIK MINGW64 /c/RHUMANOS/RHUMANOS (main)
+$ git add .
+
+LAB08-PC06@DESKTOP-OJKRAIK MINGW64 /c/RHUMANOS/RHUMANOS (main)
+$ git commit -m "se agregaron sueldos"
+[main 80640f6] se agregaron sueldos
+ 1 file changed, 4 insertions(+)
+ create mode 100644 recursos_humano/sueldos.txt.txt
+
+LAB08-PC06@DESKTOP-OJKRAIK MINGW64 /c/RHUMANOS/RHUMANOS (main)
+$ git push
+Enumerating objects: 18, done.
+Counting objects: 100% (18/18), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (13/13), done.
+Writing objects: 100% (14/14), 22.95 KiB | 11.48 MiB/s, done.
+Total 14 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/charly0002/RHUMANOS.git
+   7776e57..80640f6  main -> main
